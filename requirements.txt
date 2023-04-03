@@ -1,0 +1,7 @@
+folium
+pandas
+geopandas
+requests
+matplotlib
+mapclassify
+Jinja2
